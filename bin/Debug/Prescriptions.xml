@@ -1,0 +1,615 @@
+<?xml version="1.0"?>
+<ArrayOfPrescription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Prescription>
+    <Patient>
+      <Name>Дульський Дмитро Андрійович</Name>
+      <BirthdayDate>2003-11-28T00:00:00</BirthdayDate>
+      <Gender>Male</Gender>
+      <Age>18</Age>
+      <Symptoms>
+        <string>Stomachache</string>
+        <string>Asthma</string>
+      </Symptoms>
+    </Patient>
+    <Reccomendations />
+    <PrescriptedMedicines>
+      <Medicine>
+        <Price>25</Price>
+        <Amount>3</Amount>
+        <Name>Но-шпа</Name>
+        <Description>Таблетки проти вздуття та спазмів</Description>
+        <SymptomsCovering>
+          <string>Stomachache</string>
+        </SymptomsCovering>
+      </Medicine>
+      <Medicine>
+        <Price>70</Price>
+        <Amount>3</Amount>
+        <Name>Седалгін 9000</Name>
+        <Description>Таблетки від болю</Description>
+        <SymptomsCovering>
+          <string>Headache</string>
+          <string>Stomachache</string>
+          <string>Scoliosis</string>
+        </SymptomsCovering>
+      </Medicine>
+      <Medicine>
+        <Price>50</Price>
+        <Amount>5</Amount>
+        <Name>Вінтолін</Name>
+        <Description>Спрей у балончику проти астми</Description>
+        <SymptomsCovering>
+          <string>Asthma</string>
+          <string>Tremor</string>
+        </SymptomsCovering>
+      </Medicine>
+    </PrescriptedMedicines>
+  </Prescription>
+  <Prescription>
+    <Patient>
+      <Name>Сивуха Ярослав Олександрович</Name>
+      <BirthdayDate>2003-08-09T00:00:00</BirthdayDate>
+      <Gender>Male</Gender>
+      <Age>18</Age>
+      <Symptoms>
+        <string>Depression</string>
+        <string>Exhaust</string>
+      </Symptoms>
+    </Patient>
+    <Reccomendations />
+    <PrescriptedMedicines>
+      <Medicine>
+        <Price>60</Price>
+        <Amount>4</Amount>
+        <Name>Ксанакс</Name>
+        <Description>Таблетки від депресії</Description>
+        <SymptomsCovering>
+          <string>Depression</string>
+        </SymptomsCovering>
+      </Medicine>
+      <Medicine>
+        <Price>15</Price>
+        <Amount>18</Amount>
+        <Name>Вітаміни "ЕнерГо"</Name>
+        <Description>Вітаміни групи В з кофеїном</Description>
+        <SymptomsCovering>
+          <string>Depression</string>
+          <string>Exhaust</string>
+        </SymptomsCovering>
+      </Medicine>
+    </PrescriptedMedicines>
+  </Prescription>
+  <Prescription>
+    <Patient>
+      <Name>Турчин Олександр Михайлович</Name>
+      <BirthdayDate>2003-03-09T00:00:00</BirthdayDate>
+      <Gender>Male</Gender>
+      <Age>19</Age>
+      <Symptoms>
+        <string>Headache</string>
+        <string>Exhaust</string>
+      </Symptoms>
+    </Patient>
+    <Reccomendations />
+    <PrescriptedMedicines>
+      <Medicine>
+        <Price>39</Price>
+        <Amount>5</Amount>
+        <Name>Цитрамон Дарниця</Name>
+        <Description>Проти головного болю</Description>
+        <SymptomsCovering>
+          <string>Headache</string>
+        </SymptomsCovering>
+      </Medicine>
+      <Medicine>
+        <Price>35</Price>
+        <Amount>7</Amount>
+        <Name>Нурофен Дарниця</Name>
+        <Description>Дієві таблетки від мігрені</Description>
+        <SymptomsCovering>
+          <string>Headache</string>
+        </SymptomsCovering>
+      </Medicine>
+      <Medicine>
+        <Price>70</Price>
+        <Amount>3</Amount>
+        <Name>Седалгін 9000</Name>
+        <Description>Таблетки від болю</Description>
+        <SymptomsCovering>
+          <string>Headache</string>
+          <string>Stomachache</string>
+          <string>Scoliosis</string>
+        </SymptomsCovering>
+      </Medicine>
+      <Medicine>
+        <Price>15</Price>
+        <Amount>18</Amount>
+        <Name>Вітаміни "ЕнерГо"</Name>
+        <Description>Вітаміни групи В з кофеїном</Description>
+        <SymptomsCovering>
+          <string>Depression</string>
+          <string>Exhaust</string>
+        </SymptomsCovering>
+      </Medicine>
+    </PrescriptedMedicines>
+  </Prescription>
+  <Prescription>
+    <Patient>
+      <Name>Линник Богдан Віталійович</Name>
+      <BirthdayDate>2004-04-04T00:00:00</BirthdayDate>
+      <Gender>Male</Gender>
+      <Age>18</Age>
+      <Symptoms>
+        <string>Diarhea</string>
+        <string>Exhaust</string>
+      </Symptoms>
+    </Patient>
+    <Reccomendations />
+    <PrescriptedMedicines>
+      <Medicine>
+        <Price>60</Price>
+        <Amount>3</Amount>
+        <Name>Дуфалак</Name>
+        <Description>Противибуховий препарат</Description>
+        <SymptomsCovering>
+          <string>Diarhea</string>
+        </SymptomsCovering>
+      </Medicine>
+      <Medicine>
+        <Price>15</Price>
+        <Amount>18</Amount>
+        <Name>Вітаміни "ЕнерГо"</Name>
+        <Description>Вітаміни групи В з кофеїном</Description>
+        <SymptomsCovering>
+          <string>Depression</string>
+          <string>Exhaust</string>
+        </SymptomsCovering>
+      </Medicine>
+    </PrescriptedMedicines>
+  </Prescription>
+  <Prescription>
+    <Patient>
+      <Name>Левицький Дмитро Леонідович</Name>
+      <BirthdayDate>2004-05-07T00:00:00</BirthdayDate>
+      <Gender>Male</Gender>
+      <Age>18</Age>
+      <Symptoms />
+    </Patient>
+    <Reccomendations />
+    <PrescriptedMedicines />
+  </Prescription>
+  <Prescription>
+    <Patient>
+      <Name>Корєпанова Дарія Дмитрівна</Name>
+      <BirthdayDate>2002-12-06T00:00:00</BirthdayDate>
+      <Gender>Female</Gender>
+      <Age>19</Age>
+      <Symptoms>
+        <string>Sore Throat</string>
+        <string>Diarhea</string>
+      </Symptoms>
+    </Patient>
+    <Reccomendations />
+    <PrescriptedMedicines>
+      <Medicine>
+        <Price>19</Price>
+        <Amount>2</Amount>
+        <Name>Орасепт</Name>
+        <Description>Спрей від болю в горлі</Description>
+        <SymptomsCovering>
+          <string>Sore Throat</string>
+        </SymptomsCovering>
+      </Medicine>
+      <Medicine>
+        <Price>15</Price>
+        <Amount>10</Amount>
+        <Name>Декатилен</Name>
+        <Description>Таблетки від болю в горлі</Description>
+        <SymptomsCovering>
+          <string>Sore Throat</string>
+        </SymptomsCovering>
+      </Medicine>
+      <Medicine>
+        <Price>60</Price>
+        <Amount>3</Amount>
+        <Name>Дуфалак</Name>
+        <Description>Противибуховий препарат</Description>
+        <SymptomsCovering>
+          <string>Diarhea</string>
+        </SymptomsCovering>
+      </Medicine>
+    </PrescriptedMedicines>
+  </Prescription>
+  <Prescription>
+    <Patient>
+      <Name>Стручков Борис Денисович</Name>
+      <BirthdayDate>1987-09-08T00:00:00</BirthdayDate>
+      <Gender>Male</Gender>
+      <Age>34</Age>
+      <Symptoms>
+        <string>Cold</string>
+      </Symptoms>
+    </Patient>
+    <Reccomendations />
+    <PrescriptedMedicines>
+      <Medicine>
+        <Price>40</Price>
+        <Amount>6</Amount>
+        <Name>Фервекс</Name>
+        <Description>Виробник Україна. Від застуди, нежитю чи інших вірусних хвороб</Description>
+        <SymptomsCovering>
+          <string>Temperature</string>
+          <string>Cold</string>
+        </SymptomsCovering>
+      </Medicine>
+      <Medicine>
+        <Price>20</Price>
+        <Amount>6</Amount>
+        <Name>Лазолван</Name>
+        <Description>Таблетки від мокрого кашлю</Description>
+        <SymptomsCovering>
+          <string>Cold</string>
+          <string>Tremor</string>
+        </SymptomsCovering>
+      </Medicine>
+    </PrescriptedMedicines>
+  </Prescription>
+  <Prescription>
+    <Patient>
+      <Name>Максименко Егор Віталійович</Name>
+      <BirthdayDate>2000-11-07T00:00:00</BirthdayDate>
+      <Gender>Male</Gender>
+      <Age>21</Age>
+      <Symptoms>
+        <string>Headache</string>
+        <string>Cold</string>
+      </Symptoms>
+    </Patient>
+    <Reccomendations />
+    <PrescriptedMedicines>
+      <Medicine>
+        <Price>39</Price>
+        <Amount>5</Amount>
+        <Name>Цитрамон Дарниця</Name>
+        <Description>Проти головного болю</Description>
+        <SymptomsCovering>
+          <string>Headache</string>
+        </SymptomsCovering>
+      </Medicine>
+      <Medicine>
+        <Price>35</Price>
+        <Amount>7</Amount>
+        <Name>Нурофен Дарниця</Name>
+        <Description>Дієві таблетки від мігрені</Description>
+        <SymptomsCovering>
+          <string>Headache</string>
+        </SymptomsCovering>
+      </Medicine>
+      <Medicine>
+        <Price>70</Price>
+        <Amount>3</Amount>
+        <Name>Седалгін 9000</Name>
+        <Description>Таблетки від болю</Description>
+        <SymptomsCovering>
+          <string>Headache</string>
+          <string>Stomachache</string>
+          <string>Scoliosis</string>
+        </SymptomsCovering>
+      </Medicine>
+      <Medicine>
+        <Price>40</Price>
+        <Amount>6</Amount>
+        <Name>Фервекс</Name>
+        <Description>Виробник Україна. Від застуди, нежитю чи інших вірусних хвороб</Description>
+        <SymptomsCovering>
+          <string>Temperature</string>
+          <string>Cold</string>
+        </SymptomsCovering>
+      </Medicine>
+      <Medicine>
+        <Price>20</Price>
+        <Amount>6</Amount>
+        <Name>Лазолван</Name>
+        <Description>Таблетки від мокрого кашлю</Description>
+        <SymptomsCovering>
+          <string>Cold</string>
+          <string>Tremor</string>
+        </SymptomsCovering>
+      </Medicine>
+    </PrescriptedMedicines>
+  </Prescription>
+  <Prescription>
+    <Patient>
+      <Name>Степаненко Діана Василівна</Name>
+      <BirthdayDate>2002-08-01T00:00:00</BirthdayDate>
+      <Gender>Female</Gender>
+      <Age>19</Age>
+      <Symptoms>
+        <string>Stomachache</string>
+        <string>Scoliosis</string>
+      </Symptoms>
+    </Patient>
+    <Reccomendations />
+    <PrescriptedMedicines>
+      <Medicine>
+        <Price>25</Price>
+        <Amount>3</Amount>
+        <Name>Но-шпа</Name>
+        <Description>Таблетки проти вздуття та спазмів</Description>
+        <SymptomsCovering>
+          <string>Stomachache</string>
+        </SymptomsCovering>
+      </Medicine>
+      <Medicine>
+        <Price>70</Price>
+        <Amount>3</Amount>
+        <Name>Седалгін 9000</Name>
+        <Description>Таблетки від болю</Description>
+        <SymptomsCovering>
+          <string>Headache</string>
+          <string>Stomachache</string>
+          <string>Scoliosis</string>
+        </SymptomsCovering>
+      </Medicine>
+      <Medicine>
+        <Price>130</Price>
+        <Amount>3</Amount>
+        <Name>Горбовиправін</Name>
+        <Description>Таблетки, чудом лікуючі сколіоз</Description>
+        <SymptomsCovering>
+          <string>Scoliosis</string>
+        </SymptomsCovering>
+      </Medicine>
+    </PrescriptedMedicines>
+  </Prescription>
+  <Prescription>
+    <Patient>
+      <Name>Опричко Дмитро Андрійович</Name>
+      <BirthdayDate>1983-04-07T00:00:00</BirthdayDate>
+      <Gender>Male</Gender>
+      <Age>39</Age>
+      <Symptoms>
+        <string>Temperature</string>
+        <string>Exhaust</string>
+      </Symptoms>
+    </Patient>
+    <Reccomendations />
+    <PrescriptedMedicines>
+      <Medicine>
+        <Price>30</Price>
+        <Amount>3</Amount>
+        <Name>Парацетамол</Name>
+        <Description>Диспергуюча у рідині таблетка</Description>
+        <SymptomsCovering>
+          <string>Temperature</string>
+        </SymptomsCovering>
+      </Medicine>
+      <Medicine>
+        <Price>40</Price>
+        <Amount>6</Amount>
+        <Name>Фервекс</Name>
+        <Description>Виробник Україна. Від застуди, нежитю чи інших вірусних хвороб</Description>
+        <SymptomsCovering>
+          <string>Temperature</string>
+          <string>Cold</string>
+        </SymptomsCovering>
+      </Medicine>
+      <Medicine>
+        <Price>15</Price>
+        <Amount>18</Amount>
+        <Name>Вітаміни "ЕнерГо"</Name>
+        <Description>Вітаміни групи В з кофеїном</Description>
+        <SymptomsCovering>
+          <string>Depression</string>
+          <string>Exhaust</string>
+        </SymptomsCovering>
+      </Medicine>
+    </PrescriptedMedicines>
+  </Prescription>
+  <Prescription>
+    <Patient>
+      <Name>Самічов Петро Іванович</Name>
+      <BirthdayDate>2010-10-10T00:00:00</BirthdayDate>
+      <Gender>Male</Gender>
+      <Age>11</Age>
+      <Symptoms>
+        <string>Headache</string>
+      </Symptoms>
+    </Patient>
+    <Reccomendations />
+    <PrescriptedMedicines>
+      <Medicine>
+        <Price>39</Price>
+        <Amount>5</Amount>
+        <Name>Цитрамон Дарниця</Name>
+        <Description>Проти головного болю</Description>
+        <SymptomsCovering>
+          <string>Headache</string>
+        </SymptomsCovering>
+      </Medicine>
+      <Medicine>
+        <Price>35</Price>
+        <Amount>7</Amount>
+        <Name>Нурофен Дарниця</Name>
+        <Description>Дієві таблетки від мігрені</Description>
+        <SymptomsCovering>
+          <string>Headache</string>
+        </SymptomsCovering>
+      </Medicine>
+      <Medicine>
+        <Price>70</Price>
+        <Amount>3</Amount>
+        <Name>Седалгін 9000</Name>
+        <Description>Таблетки від болю</Description>
+        <SymptomsCovering>
+          <string>Headache</string>
+          <string>Stomachache</string>
+          <string>Scoliosis</string>
+        </SymptomsCovering>
+      </Medicine>
+    </PrescriptedMedicines>
+  </Prescription>
+  <Prescription>
+    <Patient>
+      <Name>Бочка Богдан Денисович</Name>
+      <BirthdayDate>2009-06-23T00:00:00</BirthdayDate>
+      <Gender>Male</Gender>
+      <Age>12</Age>
+      <Symptoms>
+        <string>Sore Throat</string>
+      </Symptoms>
+    </Patient>
+    <Reccomendations />
+    <PrescriptedMedicines>
+      <Medicine>
+        <Price>19</Price>
+        <Amount>2</Amount>
+        <Name>Орасепт</Name>
+        <Description>Спрей від болю в горлі</Description>
+        <SymptomsCovering>
+          <string>Sore Throat</string>
+        </SymptomsCovering>
+      </Medicine>
+      <Medicine>
+        <Price>15</Price>
+        <Amount>10</Amount>
+        <Name>Декатилен</Name>
+        <Description>Таблетки від болю в горлі</Description>
+        <SymptomsCovering>
+          <string>Sore Throat</string>
+        </SymptomsCovering>
+      </Medicine>
+    </PrescriptedMedicines>
+  </Prescription>
+  <Prescription>
+    <Patient>
+      <Name>Демічев Ігор Петрович</Name>
+      <BirthdayDate>2001-07-08T00:00:00</BirthdayDate>
+      <Gender>Male</Gender>
+      <Age>20</Age>
+      <Symptoms>
+        <string>Depression</string>
+      </Symptoms>
+    </Patient>
+    <Reccomendations />
+    <PrescriptedMedicines>
+      <Medicine>
+        <Price>60</Price>
+        <Amount>4</Amount>
+        <Name>Ксанакс</Name>
+        <Description>Таблетки від депресії</Description>
+        <SymptomsCovering>
+          <string>Depression</string>
+        </SymptomsCovering>
+      </Medicine>
+      <Medicine>
+        <Price>15</Price>
+        <Amount>18</Amount>
+        <Name>Вітаміни "ЕнерГо"</Name>
+        <Description>Вітаміни групи В з кофеїном</Description>
+        <SymptomsCovering>
+          <string>Depression</string>
+          <string>Exhaust</string>
+        </SymptomsCovering>
+      </Medicine>
+    </PrescriptedMedicines>
+  </Prescription>
+  <Prescription>
+    <Patient>
+      <Name>Савко Юрій Валерійович</Name>
+      <BirthdayDate>1987-02-05T00:00:00</BirthdayDate>
+      <Gender>Male</Gender>
+      <Age>35</Age>
+      <Symptoms>
+        <string>Scoliosis</string>
+      </Symptoms>
+    </Patient>
+    <Reccomendations>фіаіваіваві</Reccomendations>
+    <PrescriptedMedicines>
+      <Medicine>
+        <Price>130</Price>
+        <Amount>3</Amount>
+        <Name>Горбовиправін</Name>
+        <Description>Таблетки, чудом лікуючі сколіоз</Description>
+        <SymptomsCovering>
+          <string>Scoliosis</string>
+        </SymptomsCovering>
+      </Medicine>
+      <Medicine>
+        <Price>70</Price>
+        <Amount>3</Amount>
+        <Name>Седалгін 9000</Name>
+        <Description>Таблетки від болю</Description>
+        <SymptomsCovering>
+          <string>Headache</string>
+          <string>Stomachache</string>
+          <string>Scoliosis</string>
+        </SymptomsCovering>
+      </Medicine>
+    </PrescriptedMedicines>
+  </Prescription>
+  <Prescription>
+    <Patient>
+      <Name>Дмитро Головченко</Name>
+      <BirthdayDate>2002-01-01T00:00:00</BirthdayDate>
+      <Gender>Male</Gender>
+      <Age>20</Age>
+      <Symptoms>
+        <string>Headache</string>
+        <string>Tremor</string>
+      </Symptoms>
+    </Patient>
+    <Reccomendations>Цитрамон приймаємо 2 на добу. Вінтолін по мірі проблем з тремором</Reccomendations>
+    <PrescriptedMedicines>
+      <Medicine>
+        <Price>39</Price>
+        <Amount>5</Amount>
+        <Name>Цитрамон Дарниця</Name>
+        <Description>Проти головного болю</Description>
+        <SymptomsCovering>
+          <string>Headache</string>
+        </SymptomsCovering>
+      </Medicine>
+      <Medicine>
+        <Price>50</Price>
+        <Amount>5</Amount>
+        <Name>Вінтолін</Name>
+        <Description>Спрей у балончику проти астми</Description>
+        <SymptomsCovering>
+          <string>Asthma</string>
+          <string>Tremor</string>
+        </SymptomsCovering>
+      </Medicine>
+      <Medicine>
+        <Price>20</Price>
+        <Amount>6</Amount>
+        <Name>Лазолван</Name>
+        <Description>Таблетки від мокрого кашлю</Description>
+        <SymptomsCovering>
+          <string>Cold</string>
+          <string>Tremor</string>
+        </SymptomsCovering>
+      </Medicine>
+      <Medicine>
+        <Price>35</Price>
+        <Amount>7</Amount>
+        <Name>Нурофен Дарниця</Name>
+        <Description>Дієві таблетки від мігрені</Description>
+        <SymptomsCovering>
+          <string>Headache</string>
+        </SymptomsCovering>
+      </Medicine>
+      <Medicine>
+        <Price>70</Price>
+        <Amount>3</Amount>
+        <Name>Седалгін 9000</Name>
+        <Description>Таблетки від болю</Description>
+        <SymptomsCovering>
+          <string>Headache</string>
+          <string>Stomachache</string>
+          <string>Scoliosis</string>
+        </SymptomsCovering>
+      </Medicine>
+    </PrescriptedMedicines>
+  </Prescription>
+</ArrayOfPrescription>

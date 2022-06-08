@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<ArrayOfMedicine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Medicine>
+    <Price>39</Price>
+    <Amount>5</Amount>
+    <Name>Цитрамон Дарниця</Name>
+    <Description>Проти головного болю</Description>
+    <SymptomsCovering>
+      <string>Headache</string>
+    </SymptomsCovering>
+  </Medicine>
+  <Medicine>
+    <Price>30</Price>
+    <Amount>3</Amount>
+    <Name>Парацетамол</Name>
+    <Description>Диспергуюча у рідині таблетка</Description>
+    <SymptomsCovering>
+      <string>Temperature</string>
+    </SymptomsCovering>
+  </Medicine>
+  <Medicine>
+    <Price>40</Price>
+    <Amount>6</Amount>
+    <Name>Фервекс</Name>
+    <Description>Виробник Україна. Від застуди, нежитю чи інших вірусних хвороб</Description>
+    <SymptomsCovering>
+      <string>Temperature</string>
+      <string>Cold</string>
+    </SymptomsCovering>
+  </Medicine>
+  <Medicine>
+    <Price>25</Price>
+    <Amount>3</Amount>
+    <Name>Но-шпа</Name>
+    <Description>Таблетки проти вздуття та спазмів</Description>
+    <SymptomsCovering>
+      <string>Stomachache</string>
+    </SymptomsCovering>
+  </Medicine>
+  <Medicine>
+    <Price>19</Price>
+    <Amount>2</Amount>
+    <Name>Орасепт</Name>
+    <Description>Спрей від болю в горлі</Description>
+    <SymptomsCovering>
+      <string>Sore Throat</string>
+    </SymptomsCovering>
+  </Medicine>
+  <Medicine>
+    <Price>60</Price>
+    <Amount>4</Amount>
+    <Name>Ксанакс</Name>
+    <Description>Таблетки від депресії</Description>
+    <SymptomsCovering>
+      <string>Depression</string>
+    </SymptomsCovering>
+  </Medicine>
+  <Medicine>
+    <Price>50</Price>
+    <Amount>5</Amount>
+    <Name>Вінтолін</Name>
+    <Description>Спрей у балончику проти астми</Description>
+    <SymptomsCovering>
+      <string>Asthma</string>
+      <string>Tremor</string>
+    </SymptomsCovering>
+  </Medicine>
+  <Medicine>
+    <Price>130</Price>
+    <Amount>3</Amount>
+    <Name>Горбовиправін</Name>
+    <Description>Таблетки, чудом лікуючі сколіоз</Description>
+    <SymptomsCovering>
+      <string>Scoliosis</string>
+    </SymptomsCovering>
+  </Medicine>
+  <Medicine>
+    <Price>20</Price>
+    <Amount>6</Amount>
+    <Name>Лазолван</Name>
+    <Description>Таблетки від мокрого кашлю</Description>
+    <SymptomsCovering>
+      <string>Cold</string>
+      <string>Tremor</string>
+    </SymptomsCovering>
+  </Medicine>
+  <Medicine>
+    <Price>15</Price>
+    <Amount>18</Amount>
+    <Name>Вітаміни "ЕнерГо"</Name>
+    <Description>Вітаміни групи В з кофеїном</Description>
+    <SymptomsCovering>
+      <string>Depression</string>
+      <string>Exhaust</string>
+    </SymptomsCovering>
+  </Medicine>
+  <Medicine>
+    <Price>60</Price>
+    <Amount>3</Amount>
+    <Name>Дуфалак</Name>
+    <Description>Противибуховий препарат</Description>
+    <SymptomsCovering>
+      <string>Diarhea</string>
+    </SymptomsCovering>
+  </Medicine>
+  <Medicine>
+    <Price>35</Price>
+    <Amount>7</Amount>
+    <Name>Нурофен Дарниця</Name>
+    <Description>Дієві таблетки від мігрені</Description>
+    <SymptomsCovering>
+      <string>Headache</string>
+    </SymptomsCovering>
+  </Medicine>
+  <Medicine>
+    <Price>15</Price>
+    <Amount>10</Amount>
+    <Name>Декатилен</Name>
+    <Description>Таблетки від болю в горлі</Description>
+    <SymptomsCovering>
+      <string>Sore Throat</string>
+    </SymptomsCovering>
+  </Medicine>
+  <Medicine>
+    <Price>70</Price>
+    <Amount>3</Amount>
+    <Name>Седалгін 9000</Name>
+    <Description>Таблетки від болю</Description>
+    <SymptomsCovering>
+      <string>Headache</string>
+      <string>Stomachache</string>
+      <string>Scoliosis</string>
+    </SymptomsCovering>
+  </Medicine>
+  <Medicine>
+    <Price>5</Price>
+    <Amount>0</Amount>
+    <Name>Гипс</Name>
+    <Description>Матеріал для створення гин при переломах</Description>
+    <SymptomsCovering>
+      <string>Broken Leg</string>
+    </SymptomsCovering>
+  </Medicine>
+</ArrayOfMedicine>

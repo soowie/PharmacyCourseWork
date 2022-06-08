@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <string>Headache</string>
+  <string>Stomachache</string>
+  <string>Temperature</string>
+  <string>Sore Throat</string>
+  <string>Depression</string>
+  <string>Asthma</string>
+  <string>Scoliosis</string>
+  <string>Diarhea</string>
+  <string>Exhaust</string>
+  <string>Cold</string>
+  <string>Broken Leg</string>
+  <string>Sneezing Nose</string>
+  <string>Tremor</string>
+</ArrayOfString>
